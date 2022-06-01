@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>01.3 Models, Simplifying Assumptions and Bounding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61802</md:content-id>
+  <md:title>01.3 Models, Simplifying Assumptions and Bounding</md:title>
+  <md:abstract>This module discusses the use of simplifying assumptions and models in science in particular as it applies to the course BIS2A.  The module also discusses the use of hypothetical analyses at extreme boundaries.</md:abstract>
+  <md:uuid>627e7acd-fec4-492e-9958-9b1e21ceb6fc</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-47"><title>Models and Simplifying Assumptions</title><para id="eip-925"><title>Creating Models of Real Things</title>Life is complicated.  To help us understand what we see around us - in both our everyday lives and in science or engineering - we often construct models.  A common aphorism states:  All models are wrong, but some are useful.  That is, no matter how sophisticated, all models are approximations of something real.  While they are not the “real thing” (and are thus wrong), models are useful when they allow us to make predictions about real life that we can use.  Models come in a variety of forms that include, but are not limited to:  
+ <newline/><newline/>
+<list id="model_list"><title>Types of Models</title>
+
+<item>Physical models- these are 3D objects that we can touch.</item>
+<item>Drawings - these can be on paper or on the computer and either in 2D or virtual 3D. We mostly look at them.</item>
+<item>Mathematical models - these describe something in real life in mathematical terms.  We use these to calculate the behavior of the thing or process we want to understand.</item> 
+<item>Verbal or written models - these models are communicated in written or spoken language.</item>
+<item>Mental models - these models are constructed in our minds and we use these to create the other types of models and to understand the things around us.</item>
+</list><newline/>
+
+Usually, in science and everyday life alike, simple models are preferred over complex ones.  Creating simple models of complex real things requires us to make what are known as simplifying assumptions.  As their name implies, simplifying assumptions are assumptions that are included in the model to simplify the analysis as much as possible.  When a simplified model no longer predicts behavior of the real thing within acceptable bounds too many simplifying assumptions have been made.  When little predictive value is gained from adding more details to a model, it is likely overly complex.  Let’s take a look at different types of models and point out their simplifying assumptions.  
+
+In Physics you will often be asked to create simplified models of real phenomena in which you make simplifying assumptions.  For instance, you may be asked to predict how fast a wood block moves down an angled plane under the force of gravity.  
+  
+
+<example id="frict"><title>An example from physics: A block on a frictionless plane</title><figure id="first1"><media id="frictionless_plane" alt="Example of a simplified model: A frictionless plane" display="inline">
+	   
+  <image mime-type="image/jpeg" src="../../media/free_body.png"/>
+		 
+</media>
+  
+<caption>A line drawing that models a block (of any material) sitting on a generic incline plane.  In this example some simplifying assumptions are made.  For instance, the details of the materials the block and plane are made of are ignored.  Often we might also for convenience assume that the plane is frictionless.  The simplifying assumptions allow the student to practice thinking about how to balance the forces acting on the block when it is elevated in a gravity field and the surface that it is sitting on is not perpendicular to the gravity vector.  This simplifies the math and allows the student to focus on the geometry of the model and how to represent that mathematically.  The model might do a  reasonably good job of predicting the behavior of an ice cube sliding down an glass incline plane but would likely do a bad job of predicting the behavior of a wet sponge on an incline plane coated with sand paper.<newline/><newline/>
+<emphasis effect="italics">
+Source: Created by Marc T. Facciotti (Own work)</emphasis></caption></figure></example><newline/>
+
+<example id="proton"><title>An example from biology: a ribbon diagram of a protein - The transmembrane protein bacteriorhodopsin</title>
+<figure id="pro1"><media id="protmov" alt="The transmembrane protein bacteriorhodopsin">
+  <image mime-type="image/png" src="../../media/4FPD_side_extracellular.png"/>
+</media>
+
+<caption>This is a cartoon model of the transmembrane protein bacteriorhodopsin.  The protein is represented as a light blue and purple ribbon (the different colors highlight alpha helix and beta sheet, respectively), a chloride ion is represented as a yellow sphere, red spheres represent water molecules, pink balls-and-sticks represent a retinal molecule, and orange balls-and-sticks represent other lipid molecules.  The model is displayed in two views.  On the left the model is viewed "side on" while on the right it is viewed along its long axis from the extracellular side of the protein (rotated 90 deg out of the page from the view on the left).  This model simplifies many of the atomic-level details of the protein.  It also fails to represent the dynamics of the protein.  The simplifying assumptions mean that the model would not do a good job predicting the time it takes for the protein to do its work or how many protons can be transported across a membrane per second.  On the other hand, this model does a very good job of predicting how much space the protein will take up in a cellular membrane, how far into the membrane the retinal sits, or whether certain compounds can reasonably “leak” through the inner channel.   
+<newline/><newline/>
+<emphasis effect="italics">Source: Created by Marc T. Facciotti (own work), University of California, Davis <newline/>
+Derived from <link url="http://www.rcsb.org/pdb/explore/explore.do?structureId=4FPD" window="new">PDBID:4FPD</link></emphasis></caption></figure></example>
+<newline/>
+
+<example id="mol2"><title>An example from Chemistry: A molecular line model of glucose</title><figure id="first"><media id="molecule1" alt="Example of molecular line model: Glucose" display="inline">
+	   
+  <image mime-type="image/jpeg" src="../../media/glucose.png"/>
+		 
+</media>
+  
+<caption>A line drawing of a glucose molecule.  By convention, the points where straight lines meet are understood to represent carbon atoms while other atoms are shown explicitly.  Given some additional information about the nature of the atoms that are figuratively represented here, this model can be useful for predicting some of the chemical properties of this molecule, including solubility or the potential reactions it might enter into with other molecules.  The simplifying assumptions however hide the dynamics of the molecules. 
+<newline/><newline/>
+<emphasis effect="italics">
+Source: Created by Marc T. Facciotti (Own work)</emphasis></caption></figure></example><newline/>
+
+<example id="ferrari"><title>An example from everyday life: A scale model of a Ferrari</title><figure id="ferrari1"><media id="ferrari_pict" alt="An example from everyday life: A scale model of a Ferrari" display="inline">
+	   
+  <image mime-type="image/jpeg" src="../../media/Ferrari.jpg"/>
+		 
+</media>
+  
+<caption>A scale model of a Ferrari.  There are many simplifications and most only make this useful for predicting the general shape and relative proportions of the real thing.  For instance, this model gives us no predictive power about how well the car drives or how quickly it stops from a speed of 70 km/s.  <newline/><newline/>
+<emphasis effect="italics">
+Source: Created by Marc T. Facciotti (Own work)</emphasis></caption></figure></example><newline/>
+
+
+<note id="modelq" display="block" type="note"><title>Possible discussion</title>Describe a physical model that you use in everyday life.  What does the model simplify from the real thing? <emphasis effect="italics">Tip: one person may start a thread by suggesting a model and others may fill in the rest.</emphasis>
+  </note><note id="modelq2" display="block" type="note"><title>Possible discussion</title>Describe a drawing that you use in science class to model something real.  What does the model simplify from the real thing?  What are the advantages and disadvantages of the simplifications?  <emphasis effect="italics">Tip: one person may start a thread by suggesting a model and others may fill in the rest.</emphasis>
+  </note></para><para id="eip-270"><title>The spherical cow</title>The spherical cow is a famous <link url="http://www.merriam-webster.com/dictionary/metaphor" window="new">metaphor</link> in physics that make fun of  physicists tendencies to create hugely simplified models for very complex things.  Numerous jokes are associated with this metaphor and they go something like this:<newline/>
+
+<note id="Cow_joke" type="aside">"Milk production at a dairy farm was low, so the farmer wrote to the local university, asking for help from academia. A multidisciplinary team of professors was assembled, headed by a theoretical physicist, and two weeks of intensive on-site investigation took place. The scholars then returned to the university, notebooks crammed with data, where the task of writing the report was left to the team leader. Shortly thereafter the physicist returned to the farm, saying to the farmer, "I have the solution, but it only works in the case of spherical cows in a vacuum"." <newline/><newline/>
+
+<emphasis effect="italics"><newline/>Source: Wikipedia page on <link url="https://en.wikipedia.org/wiki/Spherical_cow" window="new">Spherical Cow</link> - accessed November 23, 2015. </emphasis>
+
+  </note>
+
+<newline/>
+
+<figure id="sphcowsmall"><title>A Spherical Cow</title><media id="spherical_cow" alt="A spherical cow" display="inline">
+	   
+  <image mime-type="image/jpeg" src="../../media/Sphcow_small.jpg"/>
+		 
+</media>
+  
+<caption>A cartoon representation of a spherical cow.  <newline/><newline/>
+<emphasis effect="italics">Source: https://upload.wikimedia.org/wikipedia/commons/d/d2/Sphcow.jpg <newline/>
+By Ingrid Kallick (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons</emphasis></caption></figure><newline/>
+
+The spherical cow is an amusing way to ridicule the process of creating simple models and it is quite likely that you will have your BIS2A instructor invoke the reference to the spherical cow when an overly simplified model of something in biology is being discussed.  Be ready for it!</para></section><section id="eip-304"><title>Bounding or Asymptotic Analysis  </title><para id="eip-173">In BIS2A we use models frequently.  Sometimes we also like to imagine or test how well our models actually represent reality and compare that with expectations from what we know to be true for the real life thing.  There are many ways to do this depending on how precisely you need to know the behavior of the thing you're trying to model.  If you need to know a lot of detail you create a detailed model.  If you're willing to live with less detail, you will create a simpler model.  In addition to applying simplifying assumptions, it is often useful to assess your model using a technique we call bounding or asymptotic analysis.  The main idea of this technique is to use the model, complete with simplifying assumptions, to understand how the real thing might behave at extreme conditions (e.g. evaluate the model at the minimum and maximum values of a variable).  Let’s examine a simple real life example of how this technique works:
+
+
+<example id="carex"><title>Bounding</title><para id="carex-para"><emphasis effect="bold"><emphasis effect="italics">Problem setup</emphasis></emphasis><newline/>    
+Imagine that you need to leave Davis, CA and get home to Selma, CA for the weekend.  It's 5PM and you told your parents that you'd be home by 6:30.  Selma is 200 miles (322 kM) from Davis.  You're getting worried that you won't make it home on time.  Can you get some estimate of whether it's even possible or if you'll be reheating your dinner in the microwave?<newline/>
+<newline/>
+<emphasis effect="bold"><emphasis effect="italics">Create Simplified Model and Use of Bounding</emphasis></emphasis><newline/>    
+You can create a simplified model.  In this case you can assume that the road between Davis and Selma is perfectly straight.  You also assume that your car has only 2 speeds: 0 mph and 120 mph.  These two speeds are the minimum and maximum speeds that you can travel - the bounding values.  You can now estimate that even under assumptions of the theoretically "best case" scenario, where you would drive on a perfectly straight road with no obstacles or traffic at maximum speed, you will not make it home on time. At maximum speed you would only cover 180 of the required 200 miles in the 1.5 hours you have.    <newline/>
+ <newline/>
+<emphasis effect="bold"><emphasis effect="italics">Interpretation</emphasis></emphasis><newline/>
+In this real-life example a simplified model is created.  In this case, one very important simplifying assumption is made: The road is assumed to be straight and free of obstacles or traffic.  These assumptions allow you to reasonably assume that you could drive this road at full speed the whole distance.  The simplifying assumption simplified out a lot of what you know is actually there in the real world that would influence the speed you could travel and by extension the time it would take to make the trip.  The use of bounding – or calculating the behavior of at the minimum and maximum speeds is a way of making quick predictions about what might happen in the real world.
+
+
+  </para></example><newline/>
+</para><para id="eip-939"><title><emphasis effect="italics">The importance of knowing key model assumptions</emphasis></title>Knowing what simplifying assumptions are made in a model is critical to judging how useful it is for predicting real life and for starting to make a guess about where the model needs improving if it is not sufficiently predictive.  
+
+In BIS2A you will periodically be asked to create different types of models and to explicitly identify the simplifying assumptions and the impact of those assumptions on the utility and predictive ability of the model.  We will also use models together with bounding exercises to try learning something about the potential behavior of a system.  
+</para></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>

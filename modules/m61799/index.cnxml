@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>01.2 The Energy Story</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61799</md:content-id>
+  <md:title>01.2 The Energy Story</md:title>
+  <md:abstract>In this module the concepts of Energy and Matter are introduced.  The pedagogical rubric called the Energy Story is also explained as a step wise process by which any transformation can be systematically described.</md:abstract>
+  <md:uuid>6ebc1299-b4f4-47ea-a410-c29485b8bf56</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-549"><title>Matter and Energy in Biology</title><para id="eip-433"><title>Matter and Energy</title>The concepts of matter and energy are essential to all scientific disciplines, yet, while ubiquitous and fundamental, these concepts are often amongst the most confounding for students.  Take the concept of energy.  The term is used in a variety of contexts in everyday life  - “Can we move the couch tomorrow? I don’t have the energy.” “Hey dude! Turn the light off.  We need to conserve energy.” “This is a great energy drink.”  In many sciences classes, students are told that energy comes in different forms (i.e. kinetic, thermal, electrical, potential, etc.), making it difficult to understand exactly what energy “is”.  In class, the concept of energy is also associated with a myriad of different equations, each with different variables, but that somehow all seem to end up having units of work.  Hold on! Work?  I thought we were talking about energy?!  Given all the different contexts and sometimes seemingly contradictory treatments and definitions, it’s not hard to understand why these topics seem challenging for many students and in some cases end up turning them off of the fields that make heavy use of these ideas.  
+
+While the concepts of matter and energy are most often associated with chemistry and physics, they are nevertheless central ideas in biology and we don’t shy away from this in BIS2A.  Our instructional goals, however, are to help students develop a conceptual framework that will help them use the concepts of matter and energy to:
+
+<newline/>
+<list id="properties_energy">
+<item>successfully describe biological reactions and transformations;</item>
+<item>create models and hypotheses for “how things work” in biology that explicitly include matter and energy and;</item>
+<item>be scientifically correct and transferable to new problems and to other disciplines.</item> 
+</list>
+
+While there may be a couple of energy-related equations to learn and use in BIS2A, the main focus of the course will be on the robust development of the concepts of energy and matter and their use in the interpretation of biological <link url="http://dictionary.reference.com/browse/phenomenon">phenomena</link>.  
+</para><para id="eip-22"><title>Motivation for Learning About Matter and Energy </title>Discussions about matter and energy make many, but not all, BIS2A students a little apprehensive.  After all, aren’t these topics that belong in chemistry or physics?  However, the transformations of matter and energy transfer are not phenomena reserved for the chemists and physicists or even scientists and engineers more generally.  Understanding, conceptualizing, and doing some basic accounting of the transformations of matter and transfers of energy are fundamental skills regardless of occupation or academic training.  The scientist may need more rigorous and systematic descriptions of these transformations than the artist but both make use of these skills at various points of their personal and or professional lives.  Take the following examples:
+
+<newline/><newline/>
+
+<example id="ex1"><title>Matter and Energy Transformation in Global Warming</title><para id="glob_warm1">
+    Let us for a moment consider a topic that affects us all, global warming.  At its core lies a relatively simple model that is based on our understanding of energy in solar radiation, the transfer of this energy with matter on the Earth, and the role and cycling of key carbon containing gases in the Earth's atmosphere.  In simple terms solar energy hits the earth and transfers energy to its surface, heating it.  Some of this energy is transferred back into space.  However, depending on the concentration of carbon dioxide (and other so-called greenhouse gases) different amounts of this energy may become “trapped” in the Earth’s atmosphere.  Too little carbon dioxide and relatively little energy/heat is trapped - the Earth freezes and becomes inhospitable for life.  Too much carbon dioxide and too much heat is trapped - the Earth overheats and becomes inhospitable for life.  It stands to reason, therefore, that mechanisms (biological or other) that influence the levels of carbon dioxide in the atmosphere may be important to consider in the story of global warming and that developing a good understanding of global warming phenomena requires one to trace the flow of the carbon and oxygen (matter) through their different forms and the mechanisms by which energy is transferred to and from different components of the system.   
+  </para>    
+</example>
+ 
+
+<newline/><newline/>
+
+<example id="ex2"><title>Muscle Contraction</title><para id="muscle">
+    Let us now consider a more personal example, the flexing of an arm starting from an extended position and ending in a flexed position.  Like most processes, this one can be described and understood at various levels of detail: from the anatomical point of view where the system consists of muscles, skin, and bones to the molecular where the system is composed of individual interacting biomolecules.  At whatever level of detail, if we want to create a story describing this process we know that: (a) the description must include an accounting for what happened to the matter in the system (this includes the change in position of the molecules making up the various parts of the arm and the fuel “burned” to move it) and (b) that some fuel was burned to initiate the movement and therefore, that any description of the process must also include an accounting change in the energy of the system.  In simpler terms, this is really just saying that if you want to describe a process where something has happened, you need to describe what happened to the “stuff” in the system and what happened to the energy in the system to make the process happen. 
+  </para>    
+</example><newline/><newline/>
+
+We can't possibly cover all examples of matter and energy transfer in BIS2A.  But, we will explore these issues often and practice describing transformations that happen in Nature with a structured and explicit attention to what is happening to the matter and energy in a system as it changes.  We will do this exercise across different structural levels in biology, from the molecular level (like a single chemical reaction) to more large-scale and abstracted models like nutrient cycling in the environment.  We will practice this skill by using a <link url="http://dictionary.reference.com/browse/pedagogy">pedagogical</link> tool we call “The Energy Story”.  Be prepared to participate!    
+
+
+</para></section>
+
+<section id="energy_story2">
+<title>The Energy Story</title><para id="eip-754"><title>Overview of the Energy Story</title>Whether we know it or not, we tell stories that involve matter and energy everyday, we just don’t often use terminology associated with scientific discussions of matter and energy. 
+
+<example id="ex5"><para id="ex_en_story"><emphasis effect="italics"><emphasis effect="underline">The setup: a simple statement with implicit details</emphasis></emphasis>
+<newline/>
+You tell your roommate a story about how you got to campus by saying, "I biked to campus today".  In this simple statement are several assumptions that are instructive to unpack, even if they may not seem very critical to include explicitly in a casual conversation between friends over transportation choices. <newline/><newline/>
+
+<emphasis effect="italics"><emphasis effect="underline">An outsider's reinterpretation of the process</emphasis></emphasis>
+<newline/>
+To illustrate this, imagine an external observer, for instance an alien being watching the comings and goings of humans on earth.  Without the benefit of knowing much of the implied meanings and reasonable assumptions that are buried in our language, the alien's description of the morning cycling trip would be quite different than your own.  What you described efficiently as "biking to campus" might be more specifically described by the alien as a change in location of a human body and its bicycle from one location (the apartment, termed position A) to a different location (the university, termed position B).  The alien might be even more abstract and describe the bike trip as the movement of matter (the human body and its bike) between an initial state (at location A) to a final state (at location B).  Furthermore, from the alien's standpoint what you'd call "biking" might be more specifically described as the use of a two-wheeled tool that couples the transfer of energy from the electric fields in chemical compounds to the acceleration of the two-wheeled tool-person combo and heat in its environment.  Finally, buried within the simple statement describing how we got to work is also the tacit understanding that the mass of the body and bike were conserved in the process (with some important caveats we’ll look at in future lectures) and that some energy was converted to enable the movement of the body from position A to position B.
+
+<note id="jumbo" type="note"><emphasis effect="bold">Possible discussion:</emphasis> Details are important. What if you owned a fully electric bike and the person you were talking with didn’t know that?  What important details might this change about the “everyday” story you told that the more detailed description would have cleared up?  How would the alien’s story have changed?  In what scenarios might these changes be relevant? 
+  </note></para> 
+</example>
+
+As this simple story illustrates, irrespective of many factors the process of creating a full description of a process includes some accounting of what happened to the matter, what happened to the energy and almost always some description of a mechanism that describes how changes in matter and energy of a system were brought about.  <newline/><newline/>
+
+To practice this skill, in BIS2A we will make use of something we like to call "The Energy Story".  You may be asked to tell an energy story in class, to practice telling energy stories on your post or pre lecture study guides, and to use the concept on your exams. In this section, we focus primarily on introducing the concept of an energy story and explaining how to tell one.  It is worth noting that the term "energy story" is used almost exclusively in BIS2A (and has a specific meaning in this class). This precise term will not appear in other courses at UC Davis (at least in the short term) or if it appears, is not likely be used in the same manner.  
+
+You can think of “The Energy Story” as a systematic approach creating a statement or story describing a biological process or event. Your BIS2A instructors have given this approach a short name "energy story," so that we can all associate it with the common exercise.  That way when the instructor asks the class to tell or construct an energy story everyone knows what is meant. 
+</para><para id="eip-395"><definition id="en_stor"><term>Energy Story</term><meaning id="meaning-part">
+ An energy story is a narrative describing a process or event.  The critical elements of this narrative are:  
+</meaning>
+</definition>
+</para>
+<para id="zimbo1"><list id="es_list" list-type="enumerated" number-style="arabic">
+<item>Identifying at least two states (e.g. start and end) in the process.</item>
+<item>Identifying and listing the matter in the system and its state at the start and end of the process.</item>
+<item>Describing the transformation of the matter that occurs during the process.</item>
+<item>Accounting for the “location” of energy in the system at the start and end of the process.</item>
+<item>Describing the transfer of energy that happens during the process.</item>
+<item>Identifying and describing mechanism(s) responsible for mediating the transformation of matter and transfer of energy.</item>
+</list>
+
+A complete energy story will include a description of the initial reactants and their energetic states as well as a description of the final products and their energetic states after the process or reaction is completed. 
+
+<note id="ljsaf" type="note"><emphasis effect="bold">Possible discussion:</emphasis> We argue that the energy story can be used to communicate all of the useful details that are required to describe nearly any process.  Can you think of a process that cannot be adequately described by an energy story?  If so, describe such a process.
+</note></para>
+
+<example id="eip-722"><title>Energy Story Example</title><para id="eip-904">Let us suppose that we are talking about the process of driving a car from "Point A" to "Point B" (see the figure).<newline/><newline/>
+
+<figure id="car_moving"><title>A Car Moves from Point A to Point B</title><media id="carpic" alt="A car moving from A to B">
+    <image mime-type="image/jpeg" src="../../media/car_figure.jpg"/>
+  </media>
+  
+<caption>A schematic of a car moving at the start from position "Point A" to position "Point B" at the end.  The blue rectangle depicted in the back of the car represents the level of gasoline, the purple squiggly line near the exhaust pipe represents the exhaust, squiggly blue lines on top of the car represent sound vibrations and the red shading represents areas that are hotter that at the start.  <newline/><newline/>
+Source: Created by Marc T. Facciotti (Own work) 
+  </caption></figure><newline/>
+
+Let's step through the Energy Story <link url="http://dictionary.reference.com/browse/rubric">rubric</link>: <newline/><newline/>
+
+
+<emphasis effect="bold">1. Identifying at least two states (e.g. start and end) in the process.</emphasis><newline/>
+In this example we can easily identify two states.  The first state is the non-moving car at "Point A", the start of the trip.  The second state, after the process is done, is the non-moving car at "Point B".<newline/><newline/>
+
+<emphasis effect="bold">2. Identifying and listing the matter in the system and its state at the start and end of the process.</emphasis><newline/>
+
+In this case we first note that the "system" includes everything in the figure - the car, the road, the air around the car etc.  <newline/>
+<newline/>
+It is important to understand the we are going to apply the physical law of conservation of matter.  That is, in any of the processes that we will discuss, matter is neither created or destroyed.  It might change form, but one should be able to account for everything at the end of a process that was there at the beginning.  <newline/><newline/>
+
+At the beginning of the process, the matter in the system consists of:<newline/>
+1. The car and all the stuff in it <newline/>
+2. The fuel in the car (a special thing in the car)<newline/>
+3. The air (including oxygen) around the car.<newline/>
+4. The road<newline/>
+5. The driver<newline/>
+<newline/>
+At the end of the process, the matter in the system is distributed as follows:<newline/>
+1. The car and all the stuff in it is in a new place (lets assume, aside from the fuel and position, that nothing else changed) <newline/>
+2. There is less fuel in the car and it too is in a new place<newline/>
+3. The air has changed - it now has less molecular oxygen, more carbon dioxide and more water vapor.<newline/>
+4. The road (let's assume it didn't change - other than a few pebbles moved around)<newline/>
+5. The driver (let's assume she didn't change - though we'll see by the end of the term that she did (at least a little). But, the driver is now in a different place. <newline/><newline/>
+
+<emphasis effect="bold">3. Describing the transformation of the matter that occurs during the process.</emphasis><newline/><newline/>
+
+What happened to the matter in this process?  Thanks to a lot of simplifying assumptions, we see that two big things happened.  First, the car and its driver changed positions - they went from "Point A" to "Point B".  Second, we note that the molecules in the fuel, which used to be in the car as a liquid has changed forms and is now mostly in the form of carbon dioxide and water vapor (purple blob coming out the tailpipe).  The oxygen molecules that used to be in the air are now also in a new place as part of the carbon dioxide and water that left the car.  <newline/><newline/>
+
+<emphasis effect="bold">4. Accounting for the “location” of energy in the system at the start and end of the process.</emphasis><newline/>
+It is again important to understand that we are going to invoke the physical law of conservation of energy.  That is, we stipulate that the energy in the system cannot be created or destroyed and therefore the energy that is in the system at the start of the process must still be there at the end of the process.  It may have been redistributed but you should be able to account for all the energy.  <newline/><newline/>
+
+At the beginning of the process, the energy in the system is distributed as follows:<newline/>
+1. The energy tied up in the associations between atoms that make up the matter of the car.<newline/>
+2. The energy tied up in the associations between atoms that make up the fuel.<newline/>
+3. The energy tied up in the associations between atoms that make up the air.<newline/>
+4. The energy tied up in the associations between atoms that make up the road.<newline/>
+5. The energy tied up in the associations between atoms that make up the driver.<newline/>
+6. For all things above we can also say that there is energy in the molecular motions of the atoms that make up the stuff.<newline/>
+<newline/>
+
+At the end of the process, the energy in the system is distributed as follows:<newline/>
+1. The energy tied up in the associations between atoms that make up the matter of the car.  <newline/>
+2. The energy tied up in the associations between atoms that make up the fuel.<newline/>
+3. The energy tied up in the associations between atoms that make up the air.<newline/>
+4. The energy tied up in the associations between atoms that make up the road.<newline/>
+5. The energy tied up in the associations between atoms that make up the driver.<newline/>
+6. For all things above we can also say that there is energy in the molecular motions of the atoms that make up the stuff.<newline/>
+<newline/>
+This is interesting in some sense because the lists are about the same.  We know that the amount of energy stored in the car has decreased because there is less fuel. Something must have happened. <newline/><newline/> 
+
+<emphasis effect="bold">5. Describing the transfer of energy that happens during the process.</emphasis><newline/>
+In the particular example it is the transfer of energy about the components of the system that is most interesting.  As we mentioned, there is less energy stored in the gas tank of the car at the end of the trip because there is now less fuel.  We also know intuitively (from our real life experience) that the transfer of energy from the fuel to something else was instrumental in moving the car from "Point A" to "Point B".  So, where did this energy go?  Remember, it didn't just disappear.  It must have moved somewhere else in the system. <newline/><newline/>
+
+Well we know that there is more carbon dioxide and water vapor in the system after the process.  There is energy in the associations between those atoms (atoms that used to be in the fuel and air).  So some of the energy that was in the fuel is now in the exhaust.  Let's also draw from our real life experience again and state that we know that parts of our car have gotten hot by the end of the trip (e.g. the engine, transmission, wheels/tires, exhaust etc.).  For the moment we'll just tap our intuition and say that we understand that making something hot involves some transfer of energy.  So we can reasonably postulate that some of the energy in the fuel went (directly or indirectly) into heating the car, parts of the road, the exhaust and thus the environment around the car.  An amount of energy also went into accelerating the car from zero velocity to whatever speed it traveled, but most of that eventually went into heat when the car came to a stop. <newline/><newline/>
+
+This is a bit hand wavy of an explanation and we'll learn how to do a better job throughout the quarter.  The main point is that we should be able to add all the energy at of the system at the beginning of the process (in all the places it is found) and at the end of the process (in all the places it is found) and those two values should be the same.  <newline/><newline/>
+
+<emphasis effect="bold">6. Identifying and describing mechanism(s) responsible for mediating the transformation of matter and transfer of energy. </emphasis><newline/><newline/>
+
+Finally, it is useful to try understanding how those transformations of matter and transfers of energy might have been facilitated.  For the sake of brevity, in this example we might just say that there was a complicated mechanical device (the engine) that helped facilitate the conversion of matter and transfer of energy about the system and coupled this to the change in position of the car.  Someone interested in engines would, of course, give a more detailed explanation.   <newline/><newline/>
+
+In this example we made a bunch of simplifying assumptions to highlight the process and to focus on the transformation of the fuel.  But that's fine.  The more you understand about the processes the finer details you can add.  Note that you can use the Energy Story rubric for describing your understanding (or looking for holes in your understanding) of nearly any process (certainly in biology).  In BIS2A we'll use the Energy Story to get an understanding of processes as varied as biochemical reactions, DNA replication, the function of molecular motors, etc. 
+    
+</para></example>
+
+<para id="refs1"><note id="dont_ignore" type="important"><newline/>First: We will be working many examples of the energy story throughout the course - do not feel that you need to have mastery over this topic today.<newline/><newline/>
+Second: Nevertheless, while it is tempting to think all this is <link url="http://dictionary.reference.com/browse/superfluous">superfluous</link> or not <link url="http://dictionary.reference.com/browse/germane">germane</link> to your study of biology in BIS2a, let this serve as a reminder that your instructors (those creating the course midterm and final assessments) view it as core material.  We will revisit this topic often throughout the course but need you to get familiar with some of the basic concepts now. <newline/><newline/>This is important material and an important skill to develop - do not put off studying it because it doesn't "look" like "biology" to you today.  The academic term moves VERY quickly and it will be difficult to catch up later if you don't give this some thought now.  
+  </note></para></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
